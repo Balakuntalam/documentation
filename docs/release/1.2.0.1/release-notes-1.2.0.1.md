@@ -8,9 +8,9 @@
 
 **Release Date**: 
 
-The **1.2.0.1** release of MOSIP is a patch release on top of the [Long-Term Support (LTS) release 1.2.0](../1.2.0/release-notes.md). This release comprises of all features which have been released as beta release and few major fixes as requested by the countries. This release focuses on testability, usability, and security.
+This 1.2.0.1 release comprises of all features which have been released as beta release and few major fixes as requested by the countries. This release focuses on testability, usability, and security.
 
-DSL Automation scripts, which are part of this release, enable platform testing. Also, few security related issues are resolved.
+Domain Specific Language (DSL) Automation scripts, which are part of this release, enable platform testing. Also, few security related issues are resolved.
 
 One of the major highlights of this patch release is the print stage. The print stage, now re-named as **Credential Requester Stage**, additionally manages the initiation of credential requests tailored to partner-specific information needs.  
 
